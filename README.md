@@ -1,4 +1,4 @@
-# health-equity-risk-radar
+# Community-Health-Risk-Radar
 County-level public health analytics project that integrates **CDC PLACES (2025 release; 2023 age-adjusted estimates)** with **CDC/ATSDR Social Vulnerability Index (SVI)** to rank U.S. counties by a transparent composite **Equity Need Score** (higher = higher need). The goal is to identify communities with a combination of high chronic disease burden and high social vulnerability for prioritization and targeting.
 
 ## What this does
